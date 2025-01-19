@@ -1,0 +1,11 @@
+{
+    "name": "modularis-cms/installer",
+    "description": "Installer for Modularis CMS",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ModularisCms\\Installer\\": "src/"
+        }
+    },
+    "require": {}
+}
